@@ -1,0 +1,18 @@
+// JavaScript Variable
+
+// using let keyword
+// let username = "Manish"
+// let intro = "My name is Manish Kumar"
+// let firstName = "Manish"
+// let lastName = "Kumar"
+// let userIntro = "My Name is " + firstName + " " + lastName;
+
+// const name = "Manish"
+// you cant change the value of const variable and you have to initialize it.
+// let and const can only be used inside its scop but var can be used outside the scope
+
+// let is block scope
+// var is fuction scope
+
+// var wale varible ko jha initialise kiya h us line se phle access kroge to vo vha pr undefiened hota h but let ke case me ye error dega.
+
